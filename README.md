@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Kshitiz Rai.</h1>
+<h1 align="center">Hi 👋, I'm [Kshitiz Rai.](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Kshitiz%20rai)</h1>
 <h3 align="center">A passionate frontend developer from Nepal.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thekshitiz&label=Profile%20views&color=0e75b6&style=flat" alt="thekshitiz" /> </p>
